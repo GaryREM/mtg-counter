@@ -1,0 +1,11 @@
+# ignore files for distribution
+dist/
+
+# ignore all node files
+node_modules/
+
+#ignore all editor configuration
+.nova/
+
+.DS_Store
+Thumbs.db
